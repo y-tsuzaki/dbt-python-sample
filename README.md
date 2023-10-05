@@ -1,3 +1,8 @@
+dbt-falでpython実行するテスト
+
+![スクリーンショット 2023-10-06 0 43 08](https://github.com/y-tsuzaki/dbt-python-sample/assets/26266190/7d3990f8-abeb-4e33-9fb0-b425258f38d2)
+
+--- 
 Welcome to your new dbt project!
 
 ### Using the starter project
